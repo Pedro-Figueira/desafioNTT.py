@@ -1,6 +1,6 @@
 # Desafio 01 - Python NTT - Sistema Bancário
 
-## Índice
+## Regras do Desafio
 
 - [Depósito - Somente valores positivos](#depósito---somente-valores-positivos)
 - [Limite de saques - 3 saques por dia, limite de R$500,00 por saque](#limite-de-saques---3-saques-por-dia-limite-de-r50000-por-saque)
